@@ -80,7 +80,3 @@ A **full-featured Alumni Management Platform** built with **React.js + TypeScrip
 - **Charts & Analytics:** Chart.js or Recharts  
 - **Mock Payments:** Razorpay Sandbox  
 - **Responsive Design:** Fully mobile-friendly
-
----
-
-## Project Structure
