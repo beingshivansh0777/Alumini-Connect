@@ -1,4 +1,4 @@
-# College Alumni Management System
+#  Alumni Management System(Alumni-Connect)
 
 A **full-featured Alumni Management Platform** built with **React.js + TypeScript + Tailwind CSS**, supporting multi-role access, event management, mentorship, donations, and admin analytics. All data is stored locally using **Local Storage**, and mock integrations are used for payments and messaging.
 
